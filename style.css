@@ -6769,7 +6769,7 @@ body .search-modal .close:hover {
 }
 
 .rs-team-Single .btm-info-team .images-part img {
-  border-radius: 50%;
+  border-radius: 0;
 }
 
 .rs-team-Single .btm-info-team .con-info {
