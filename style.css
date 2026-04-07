@@ -13235,8 +13235,16 @@ body .search-modal .close:hover {
   .rs-project.style3 {
     border-radius: 0px 100px 0px 0px;
   }
+  .dn{
+    display: none;
+  }
 }
 
+@media(min-width:767px){
+  .dnn{
+    display: none;
+  }
+}
 .d1 {
   padding: 35px 40px 50px 40px !important;
 }
