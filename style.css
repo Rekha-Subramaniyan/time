@@ -13238,6 +13238,15 @@ body .search-modal .close:hover {
   .dn{
     display: none;
   }
+  .mo{
+    margin-top: 20px !important;
+  }
+  .pd{
+      padding-top: 60px !important;
+  }
+  .pt{
+    padding-bottom: 28px !important;
+  }
 }
 
 @media(min-width:767px){
