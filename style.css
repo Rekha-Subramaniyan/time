@@ -7281,7 +7281,7 @@ body .search-modal .close:hover {
 }
 
 .rs-services.style3 .services-item .services-content {
-  padding: 33px 0px 0px 0;
+  padding: 10px 0px 0px 0;
   position: relative;
 }
 
@@ -13246,6 +13246,12 @@ body .search-modal .close:hover {
   }
   .pt{
     padding-bottom: 28px !important;
+  }
+  .pd-20{
+    padding-top: 25px !important;
+  }
+  .mb0{
+    margin-bottom: 0px;
   }
 }
 
